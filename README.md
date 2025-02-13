@@ -28,3 +28,5 @@ The Lambda function returns a JSON object with the image keys and their associat
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+Wathc the demo of the application here: https://youtu.be/e3UcgN6y30s
